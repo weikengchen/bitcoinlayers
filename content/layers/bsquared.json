@@ -29,7 +29,7 @@
             "category": "Bridge Custody",
             "score": 0,
             "tier": "High",
-            "title": "Users deposit funds into a MPC protocl managed by Bsquared Network and a custodian",
+            "title": "Users deposit funds into a MPC protocol managed by Bsquared Network and a custodian",
             "content": "When users deposit funds into Bsquared, they deposit funds into a MPC wallet managed by the Bsquared Network team and Cobo, a institutional custodian. Information on how many signers participate in this MPC scheme is not available. Bsquared has stated that more players are being added into this custody scheme."
         },
         {
